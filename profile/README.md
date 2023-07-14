@@ -34,3 +34,8 @@ https://github.com/devgeniuspage/devgenius.page/issues 에 페이지 등록을 �
 https://[요청단어].is.devgenius.page 
 
 많이 요청해주세요~ ^__^
+
+
+## 주의사항
+
+이미지 또는 첨부파일(음성, 동영상, 일반 등) 같은 바이너리 형태의 파일은 업로드를 자제해주세요. 최대한 다른곳에 업로드 후 링크를 걸어주세요.
