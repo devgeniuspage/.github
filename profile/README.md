@@ -7,10 +7,10 @@
 <h1 align="center">
   Dev Genius Page
 </h1>
+<h2 align="center">
+  천재 개발자들의 웹페이지
+</h2>
 
-# Dev Genius Page
-
-천재 개발자들의 웹페이지
 
 ## 뭐하는 건가요?
 
