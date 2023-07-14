@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://chatbus.github.io">
+    <img alt="Dev Genius Page" src="https://avatars.githubusercontent.com/u/139518566?s=200&v=4" width="200" />
+  </a>
+</p>
+
+<h1 align="center">
+  Dev Genius Page
+</h1>
+
 # Dev Genius Page
 
 천재 개발자들의 웹페이지
